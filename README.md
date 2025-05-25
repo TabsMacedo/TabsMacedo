@@ -14,13 +14,23 @@
 
 ## 👩🏾‍💻 Sobre mim
 
-Sou Desenvolvedora Full Stack com foco em construir aplicações web modernas, performáticas e com design acessível. Tenho experiência sólida no desenvolvimento de interfaces interativas e sistemas escaláveis utilizando tecnologias como React, Next.js, Node.js e SQL.
+Desenvolvedora Full Stack especializada em aplicações web modernas, performáticas e acessíveis. Tenho experiência prática com React, Next.js, Node.js e SQL, criando interfaces interativas e sistemas escaláveis.
 
-- Atuo no desenvolvimento de projetos próprios e colaborativos, com atenção especial à experiência do usuário, qualidade do código e boas práticas de arquitetura.
-- Tenho domínio em tecnologias do ecossistema JavaScript/TypeScript e práticas modernas de desenvolvimento frontend e backend.
-- Utilizo metodologias ágeis, Git e integração contínua para garantir entregas eficientes e organizadas.
-- Além da atuação como desenvolvedora, compartilho conhecimento como Facilitadora de Tecnologia na <b>Programadores do Amanhã</b>, onde contribuo com a formação de novos talentos da área.
-- Minha missão é criar soluções tecnológicas com propósito, que gerem impacto positivo e acessível para diferentes públicos.
+- Participo de projetos próprios e colaborativos, com foco em UX, qualidade de código e arquitetura limpa.  
+- Domino o ecossistema JavaScript/TypeScript e práticas atuais de desenvolvimento frontend e backend.  
+- Trabalho com metodologias ágeis, Git e integração contínua para entregas ágeis e organizadas.  
+- Também atuo como Facilitadora de Tecnologia na <b>Programadores do Amanhã</b>, formando novos talentos da área.  
+- Busco criar soluções tecnológicas com impacto real, propósito e acessibilidade.
+
+<hr />
+
+## ✨ Projetos em destaque
+
+- [Portfolio Pessoal](https://github.com/TabsMacedo/portfolio-pessoal) – Meu portfólio profissional com projetos, experiências e habilidades.
+- [Projeto Corvo](https://github.com/TabsMacedo/projeto-corvo) – Aplicação com foco em usabilidade e integração de recursos modernos.
+- [Projeto Kidopi](https://github.com/TabsMacedo/projeto-kidopi) – Solução web com arquitetura escalável e foco em boas práticas.
+- [Register Students Frontend](https://github.com/TabsMacedo/register-students-frontend) – Interface intuitiva para gestão de alunos.
+- [Register Students Backend](https://github.com/TabsMacedo/register-students-backend) – API robusta com autenticação e operações CRUD.
 
 <hr />
 
@@ -37,24 +47,10 @@ Sou Desenvolvedora Full Stack com foco em construir aplicações web modernas, p
 
 <hr />
 
-## ✨ Projetos em destaque
-
-- [Portfolio Pessoal](https://github.com/TabsMacedo/portfolio-pessoal) – Meu portfólio profissional com projetos, experiências e habilidades.
-- [Projeto Corvo](https://github.com/TabsMacedo/projeto-corvo) – Aplicação com foco em usabilidade e integração de recursos modernos.
-- [Projeto Kidopi](https://github.com/TabsMacedo/projeto-kidopi) – Solução web com arquitetura escalável e foco em boas práticas.
-- [Register Students Frontend](https://github.com/TabsMacedo/register-students-frontend) – Interface intuitiva para gestão de alunos.
-- [Register Students Backend](https://github.com/TabsMacedo/register-students-backend) – API robusta com autenticação e operações CRUD.
-
-<hr />
-
 ## 📫 Entre em contato
 
-<div align="center">
+<div>
   <a href="mailto:tabata.macedo1897@gmail.com">tabata.macedo1897@gmail.com</a>
 </div>
 
-<hr />
 
-<p align="center"><i>
-Unindo código e propósito para transformar o mundo, uma linha por vez.
-</i></p>
