@@ -15,24 +15,25 @@
   </a>
 </div>
 
---
+<hr />
 
 <p align="center"><em>
-Sou apaixonada por tecnologia, educação e por mudar a vida de pessoas através da programação.
+Desenvolvedora apaixonada por impactar vidas através da tecnologia, da educação e de soluções web modernas.
 </em></p>
 
----
+<hr />
 
 ## 👩🏾‍💻 Sobre mim
 
-Como Facilitadora de Tecnologia na <b>Programadores do Amanhã</b>, ensino e oriento estudantes em desenvolvimento web, empoderando-os com habilidades fundamentais e avançadas em HTML, CSS, JavaScript, Node.js, SQL, MySQL, APIs, e React.
+Sou Desenvolvedora Full Stack com foco em aplicações web modernas e interfaces acessíveis. Atuo como Facilitadora de Tecnologia na <b>Programadores do Amanhã</b>, onde ensino, crio experiências educacionais e oriento estudantes em sua jornada na programação.
 
-- 💡 Planejo e ministro aulas teóricas e práticas, abordando desde interfaces interativas até aplicações integradas a bancos de dados.
-- 📚 Crio materiais didáticos e exercícios personalizados para consolidar conceitos do frontend e backend.
-- 🚀 Incentivo a autonomia, curiosidade e resolução de problemas por meio de atividades mão na massa e simulações de ambientes reais de trabalho.
-- 🌱 Tenho orgulho de contribuir para o desenvolvimento de futuros profissionais de tecnologia, promovendo impacto social através da educação.
+- 💡 Elaboro e conduzo aulas práticas e imersivas sobre HTML, CSS, JavaScript, Node.js, SQL, APIs REST e React.
+- 📚 Produzo materiais didáticos claros e contextualizados, unindo teoria à prática com foco em empregabilidade.
+- 🚀 Estimulo o pensamento crítico, a criatividade e a independência técnica dos alunos em ambientes colaborativos.
+- 🤝 Acredito na tecnologia como ferramenta de transformação social e inclusão digital.
+- 🌐 Paralelamente, desenvolvo projetos autorais que refletem meu compromisso com boas práticas, performance e design moderno.
 
----
+<hr />
 
 ## 🚀 Tecnologias que mais utilizo
 
@@ -45,17 +46,17 @@ Como Facilitadora de Tecnologia na <b>Programadores do Amanhã</b>, ensino e ori
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
----
+<hr />
 
 ## ✨ Projetos em destaque
 
 - [Portfolio Pessoal](https://github.com/TabsMacedo/portfolio-pessoal) – Meu portfólio profissional com projetos, experiências e habilidades.
-- [Projeto Corvo](https://github.com/TabsMacedo/projeto-corvo) – Projeto de destaque explorando soluções criativas em desenvolvimento web.
-- [Projeto Kidopi](https://github.com/TabsMacedo/projeto-kidopi) – Aplicação voltada à integração de tecnologias modernas.
-- [Register Students Frontend](https://github.com/TabsMacedo/register-students-frontend) – Interface para cadastro e gerenciamento de estudantes.
-- [Register Students Backend](https://github.com/TabsMacedo/register-students-backend) – Backend robusto para o sistema de gerenciamento de estudantes.
+- [Projeto Corvo](https://github.com/TabsMacedo/projeto-corvo) – Aplicação com foco em usabilidade e integração de recursos modernos.
+- [Projeto Kidopi](https://github.com/TabsMacedo/projeto-kidopi) – Solução web com arquitetura escalável e foco em boas práticas.
+- [Register Students Frontend](https://github.com/TabsMacedo/register-students-frontend) – Interface intuitiva para gestão de alunos.
+- [Register Students Backend](https://github.com/TabsMacedo/register-students-backend) – API robusta com autenticação e operações CRUD.
 
----
+<hr />
 
 ## 📫 Entre em contato
 
@@ -63,8 +64,8 @@ Como Facilitadora de Tecnologia na <b>Programadores do Amanhã</b>, ensino e ori
   <a href="mailto:tabata.macedo1897@gmail.com">tabata.macedo1897@gmail.com</a>
 </div>
 
----
+<hr />
 
 <p align="center"><i>
-Transformando vidas com tecnologia, ensino e propósito.
+Unindo código e propósito para transformar o mundo, uma linha por vez.
 </i></p>
