@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <h1>Prazer, Tábata Macedo 👋🏾</h1>
   <p>
     <b>Desenvolvedora Full Stack</b> | <b>Instrutora de Desenvolvimento Web na <a href="https://www.programadoresdoamanha.org/">Programadores do Amanhã</a></b><br>
@@ -15,7 +15,7 @@
   </a>
 </div>
 
----
+--
 
 <p align="center"><em>
 Sou apaixonada por tecnologia, educação e por mudar a vida de pessoas através da programação.
