@@ -17,21 +17,15 @@
 
 <hr />
 
-<p align="center"><em>
-Desenvolvedora apaixonada por impactar vidas através da tecnologia, da educação e de soluções web modernas.
-</em></p>
-
-<hr />
-
 ## 👩🏾‍💻 Sobre mim
 
-Sou Desenvolvedora Full Stack com foco em aplicações web modernas e interfaces acessíveis. Atuo como Facilitadora de Tecnologia na <b>Programadores do Amanhã</b>, onde ensino, crio experiências educacionais e oriento estudantes em sua jornada na programação.
+Sou Desenvolvedora Full Stack com foco em construir aplicações web modernas, performáticas e com design acessível. Tenho experiência sólida no desenvolvimento de interfaces interativas e sistemas escaláveis utilizando tecnologias como React, Next.js, Node.js e SQL.
 
-- 💡 Elaboro e conduzo aulas práticas e imersivas sobre HTML, CSS, JavaScript, Node.js, SQL, APIs REST e React.
-- 📚 Produzo materiais didáticos claros e contextualizados, unindo teoria à prática com foco em empregabilidade.
-- 🚀 Estimulo o pensamento crítico, a criatividade e a independência técnica dos alunos em ambientes colaborativos.
-- 🤝 Acredito na tecnologia como ferramenta de transformação social e inclusão digital.
-- 🌐 Paralelamente, desenvolvo projetos autorais que refletem meu compromisso com boas práticas, performance e design moderno.
+- Atuo no desenvolvimento de projetos próprios e colaborativos, com atenção especial à experiência do usuário, qualidade do código e boas práticas de arquitetura.
+- Tenho domínio em tecnologias do ecossistema JavaScript/TypeScript e práticas modernas de desenvolvimento frontend e backend.
+- Utilizo metodologias ágeis, Git e integração contínua para garantir entregas eficientes e organizadas.
+- Além da atuação como desenvolvedora, compartilho conhecimento como Facilitadora de Tecnologia na <b>Programadores do Amanhã</b>, onde contribuo com a formação de novos talentos da área.
+- Minha missão é criar soluções tecnológicas com propósito, que gerem impacto positivo e acessível para diferentes públicos.
 
 <hr />
 
