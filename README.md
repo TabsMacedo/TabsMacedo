@@ -36,7 +36,7 @@ Desenvolvedora Full Stack especializada em aplicações web modernas, performát
 
 ## 🚀 Tecnologias que mais utilizo
 
-<div align="center" style="display: inline_block">
+<div style="display: inline_block">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
